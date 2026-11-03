@@ -6,7 +6,7 @@
   "description": "Intelligent LLM routing and subagent delegation for OpenClaw. Routes each task to the optimal model by tier (FAST, REASONING, CREATIVE, RESEARCH, CODE, QUALITY, VISION), spawns subagents via sessions_spawn, and reduces API costs. Supports parallel multi-task splitting. Rejects prompt-injection patterns in task strings.",
   "author": "Austin",
   "license": "MIT",
-  "homepage": "https://github.com/RuneweaverStudios/agent-swarm",
+  "homepage": "https://github.com/austindixson/agent-swarm",
   "tags": [
     "routing",
     "orchestration",
